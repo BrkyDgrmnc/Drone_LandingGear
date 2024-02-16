@@ -17,7 +17,8 @@
 - Çıkış Akımı **:** 800mA<br/>
 - Anlık Tepe Akımı **:** 1500mA<br/>
 <br/>
-## PCB Görselleri<br/>
+
+## PCB Görselleri <br/>
 
   <img src="https://github.com/BrkyDgrmnc/Drone_LandingGear/assets/57718277/48015285-3faf-446d-9483-7f2cd3d135bb" height="300">
   <img src="https://github.com/BrkyDgrmnc/Drone_LandingGear/assets/57718277/58af7bda-a196-4853-97e0-fa5098cfa94d" height="300"><br/>
