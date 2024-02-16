@@ -1,23 +1,23 @@
-# Drone_LandingPod <img src="https://github.com/BrkyDgrmnc/Drone_LandingGear/assets/57718277/862ae087-98f5-48ca-ae22-41f8741b908e" height="100">
+# Drone_LandingPod <img src="https://github.com/BrkyDgrmnc/Drone_LandingGear/assets/57718277/862ae087-98f5-48ca-ae22-41f8741b908e" height="100"><br/>
 
 
 
-## Proje Bilgileri
+## Proje Bilgileri<br/>
 
   Bu proje, döner kanatlı insansız hava araçlarında kullanılmak üzere geliştirilmiş iniş takımının elektronik kartını içermektedir. Kart, iki adet 6V redüktörlü DC motoru kontrol etmek üzere tasarlanmıştır. Motorları sürmek için L9110 motor sürücü entegresi kullanılmıştır.<br/>
   
   <img src="https://github.com/BrkyDgrmnc/Drone_LandingGear/assets/57718277/2abafe62-47a4-4b02-bd5d-f4b3ca1e110c" height="300">
-  <img src="https://github.com/BrkyDgrmnc/Drone_LandingGear/assets/57718277/81d21839-bb31-4dcf-9001-ec8b5a34616c" height="300">
+  <img src="https://github.com/BrkyDgrmnc/Drone_LandingGear/assets/57718277/81d21839-bb31-4dcf-9001-ec8b5a34616c" height="300"><br/>
 
-### Kart Özellikleri 
+### Kart Özellikleri <br/>
 
-- Kontrolcü **:** Arduino Pro Mini (ATmega328)
-- Giriş Voltajı **:** 12V *(Not:Kontrolcü için harici 5V girişi gereklidir.)*
-- Motor Çıkış Voltajı **:** 6V
-- Çıkış Akımı **:** 800mA
-- Anlık Tepe Akımı **:** 1500mA
-
-## PCB Görselleri
+- Kontrolcü **:** Arduino Pro Mini (ATmega328)<br/>
+- Giriş Voltajı **:** 12V *(Not:Kontrolcü için harici 5V girişi gereklidir.)* <br/>
+- Motor Çıkış Voltajı **:** 6V<br/>
+- Çıkış Akımı **:** 800mA<br/>
+- Anlık Tepe Akımı **:** 1500mA<br/>
+<br/>
+## PCB Görselleri<br/>
 
   <img src="https://github.com/BrkyDgrmnc/Drone_LandingGear/assets/57718277/48015285-3faf-446d-9483-7f2cd3d135bb" height="300">
   <img src="https://github.com/BrkyDgrmnc/Drone_LandingGear/assets/57718277/58af7bda-a196-4853-97e0-fa5098cfa94d" height="300"><br/>
