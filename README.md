@@ -11,6 +11,8 @@
 ## PCB Görselleri
 
   <img src="https://github.com/BrkyDgrmnc/Drone_LandingGear/assets/57718277/48015285-3faf-446d-9483-7f2cd3d135bb" height="300">
-  <img src="https://github.com/BrkyDgrmnc/Drone_LandingGear/assets/57718277/af92ad0c-b0e7-4efe-ba53-3421212adf5c" height="300">
+  <img src="https://github.com/BrkyDgrmnc/Drone_LandingGear/assets/57718277/58af7bda-a196-4853-97e0-fa5098cfa94d" height="300"><br/>
   <img src="https://github.com/BrkyDgrmnc/Drone_LandingGear/assets/57718277/4c7d7700-76b8-424e-bfd0-5c506051d052" height="300">
-  <img src="https://github.com/BrkyDgrmnc/Drone_LandingGear/files/14312011/ProMini_InisTakimi.pdf" height="300">
+  <img src="https://github.com/BrkyDgrmnc/Drone_LandingGear/assets/57718277/0d88ad15-2101-492e-ba54-c8706c71977f" height="300">
+  
+  
