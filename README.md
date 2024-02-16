@@ -4,9 +4,17 @@
 
 ## Proje Bilgileri
 
-  Bu proje döner kanatlı insansız hava araçlarında kullanmak üzere geliştirilmiş iniş takımının elektronik kartını içermektedir.
+  Bu proje, döner kanatlı insansız hava araçlarında kullanılmak üzere geliştirilmiş iniş takımının elektronik kartını içermektedir. Kart, iki adet 6V redüktörlü DC motoru kontrol etmek üzere tasarlanmıştır. Motorları sürmek için L9110 motor sürücü entegresi kullanılmıştır.
   <img src="https://github.com/BrkyDgrmnc/Drone_LandingGear/assets/57718277/2abafe62-47a4-4b02-bd5d-f4b3ca1e110c" height="300">
   <img src="https://github.com/BrkyDgrmnc/Drone_LandingGear/assets/57718277/81d21839-bb31-4dcf-9001-ec8b5a34616c" height="300">
+
+### Kart Özellikleri 
+
+- Kontrolcü **:** Arduino Pro Mini (ATmega328)
+- Giriş Voltajı **:** 12V *(Not:Kontrolcü için harici 5V girişi gereklidir.)*
+- Motor Çıkış Voltajı **:** 6V
+- Çıkış Akımı **:** 800mA
+- Anlık Tepe Akımı **:** 1500mA
 
 ## PCB Görselleri
 
