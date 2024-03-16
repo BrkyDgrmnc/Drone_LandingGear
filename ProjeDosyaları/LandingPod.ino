@@ -23,7 +23,6 @@
 
 unsigned int rcsignal = 1500;
 
-
 unsigned long lastTimeR = 0;
 bool j = true;
 bool k = true;
