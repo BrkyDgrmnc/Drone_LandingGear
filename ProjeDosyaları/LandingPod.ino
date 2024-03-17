@@ -10,7 +10,7 @@
 #define RSW_1           7                   //
 /********************************************/
 
-/*Motor Direction Select Pins**************/
+/*Motor Direction Select Pins****************/
 #define ROutA           12                  //
 #define ROutB           13                  //
 /*------------------------------------------*/
