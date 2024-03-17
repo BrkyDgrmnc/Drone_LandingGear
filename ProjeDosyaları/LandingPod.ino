@@ -3,7 +3,7 @@
 #define RC_PIN          2                 /**/
 /********************************************/
 
-/*Motor Limit Switchs************************/
+/*Motor Limit Switches***********************/
 #define LSW_2           3                   //
 #define LSW_1           4                   //
 #define RSW_2           6                   //
